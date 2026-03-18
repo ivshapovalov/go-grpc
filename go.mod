@@ -1,1 +1,1 @@
-module grpc
+module github.com/ivshapovalov/go-grpc
